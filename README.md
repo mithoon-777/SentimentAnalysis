@@ -25,11 +25,11 @@ An interactive sentiment analysis tool powered by Hugging Face Transformers and 
 
 **Input:**
 ```
-"I love this product! It's amazing."
+"I LOVE MARVEL MOVIES"
 ```
 
 **Output:**
 ```
-Sentiment: POSITIVE (Confidence: 0.98)
+Sentiment: POSITIVE (Confidence: 1.00)
 ```
 
